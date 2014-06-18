@@ -1,3 +1,6 @@
+! Author: Kuldeep Singh
+! Institute: IIT Bombay
+! Last edit: June 18, 2014, 7:38 p.m.
 program diffmatrixfind
 implicit none
  
